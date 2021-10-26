@@ -1,4 +1,3 @@
-import re
 import random
 from asciiHangmans import hangmans
 from words import wordList
